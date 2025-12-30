@@ -1,0 +1,5 @@
+{
+  "buildCommand": "pnpm install --legacy-peer-deps && pnpm build",
+  "installCommand": "pnpm install --legacy-peer-deps",
+  "framework": "vite"
+}
