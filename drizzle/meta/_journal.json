@@ -1,0 +1,41 @@
+{
+  "version": "7",
+  "dialect": "mysql",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1766738333291,
+      "tag": "0000_hesitant_timeslip",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1766742359437,
+      "tag": "0001_salty_hawkeye",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1766743642082,
+      "tag": "0002_great_jack_murdock",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1766745973440,
+      "tag": "0003_curly_venom",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1766747233996,
+      "tag": "0004_ambiguous_frank_castle",
+      "breakpoints": true
+    }
+  ]
+}
